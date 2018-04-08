@@ -1,0 +1,40 @@
+{
+"basics":{
+"name":"bindu",
+"photo":"bindu.png",
+"email":"bindureddy736@gmail.com",
+"mobileno":"9908673560",
+"address":"SVIT College"
+},
+"career":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+"education":[
+  {
+    "degree":"B-tech",
+    "institute":"SVIT,Anantapur",
+    "data":["2016-20","75%"]
+  },
+  {
+    "degree":"intermediate",
+  "institute":"Narayana",
+  "data":["2014-16","70%"]
+},
+{
+  "degree":"S.S.C",
+  "institute":"S.S.V.M",
+  "data":["2014","85%"]
+
+}
+],
+"skills":[
+{
+  "sname":"Languages",
+  "sdata":["C","C++","java"]
+},
+{
+  "sname":"databases",
+  "sdata":["oracle","Mysql","PDO"]
+}
+]
+}
